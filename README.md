@@ -1,2 +1,1 @@
-# Maquetado-Tindog
-Maquetado de una landing page
+TinDog Starting Files
